@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: b7a135973f7ac0149b78d5147363126e
+timeCreated: 1481423645
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: C Dome
+    100002: //RootNode
+    100004: E arch wall
+    100006: N Dome
+    100008: NE CornerDome
+    100010: NE roof corner
+    100012: NW Corner Dome
+    100014: NW roof corner
+    100016: S Dome
+    100018: SE cornerDome
+    100020: SE roof corner
+    100022: SW corner dome
+    100024: SW roof corner
+    100026: W arch wall
+    400000: C Dome
+    400002: //RootNode
+    400004: E arch wall
+    400006: N Dome
+    400008: NE CornerDome
+    400010: NE roof corner
+    400012: NW Corner Dome
+    400014: NW roof corner
+    400016: S Dome
+    400018: SE cornerDome
+    400020: SE roof corner
+    400022: SW corner dome
+    400024: SW roof corner
+    400026: W arch wall
+    2300000: C Dome
+    2300002: E arch wall
+    2300004: N Dome
+    2300006: NE CornerDome
+    2300008: NE roof corner
+    2300010: NW Corner Dome
+    2300012: NW roof corner
+    2300014: S Dome
+    2300016: SE cornerDome
+    2300018: SE roof corner
+    2300020: SW corner dome
+    2300022: SW roof corner
+    2300024: W arch wall
+    3300000: C Dome
+    3300002: E arch wall
+    3300004: N Dome
+    3300006: NE CornerDome
+    3300008: NE roof corner
+    3300010: NW Corner Dome
+    3300012: NW roof corner
+    3300014: S Dome
+    3300016: SE cornerDome
+    3300018: SE roof corner
+    3300020: SW corner dome
+    3300022: SW roof corner
+    3300024: W arch wall
+    4300000: SW corner dome
+    4300002: SE cornerDome
+    4300004: NW Corner Dome
+    4300006: NE CornerDome
+    4300008: W arch wall
+    4300010: E arch wall
+    4300012: N Dome
+    4300014: NE roof corner
+    4300016: NW roof corner
+    4300018: SE roof corner
+    4300020: SW roof corner
+    4300022: S Dome
+    4300024: C Dome
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
